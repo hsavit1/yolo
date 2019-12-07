@@ -1,4 +1,8 @@
-# Yolo
+# Blog
+
+This is a simple personal site that I'm building using Elixir and Phoenix.
+
+---
 
 To start your Phoenix server:
 
