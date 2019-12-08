@@ -1,0 +1,23 @@
+<h1>Welcome to my impressively unimpressive site!</h1>
+
+
+<article>
+    <h4>Who am I?</h4>
+
+    <p>
+        I'm a software developer who relizes that the Earth is in some serious trouble and is actively trying to find big solutions to human caused problems. 
+        I have been programming since 2013, my junior year in Binghamton University, where I tirelessly studied mathematical physics. 
+        Since then I've jumped around a few software startups. My goal is to use what I've learned to help make all life on this planet sustainable.
+    </p>
+
+    
+    <h4>How I've built this</h4>
+
+    <p>
+        I've built this site using Phoneix, an Elixir web framework. 
+        In the past, I had a fancy personal site that used React / Redux / React Router / Styled Components / Zeit Now / and next.js, 
+        but ran into difficulties with hosting fees, so I've retreated to this stylistically bland MVC framework site.
+    </p>
+
+
+</article>

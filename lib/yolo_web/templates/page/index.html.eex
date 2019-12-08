@@ -1,14 +1,15 @@
 <section class="phx-hero">
-  <h1>Welcome to my personal site!</h1>
-  <p>Every engineer needs a personal site.</p>
+  <h2>tl;dr: My personal site.</h2>
+  <p>Check me out!</p>
 </section>
 
-<section class="column">
-  <h2>You can find out more about me on</h2> 
-  <br/>
+<footer>
+  <h3>Places where you can find out more about me:</h3> 
   <ul>
-    <li><a href="https://github.com/hsavit1">Github</a></li>
-    <li><a href="https://twitter.com/CantBeMoreWrong">Twitter</a></li>
-    <li><a href="linkedin.com/in/henry-savit-45027069 ">Linkedin</a></li>
+    <li><%= link("About", to: Routes.page_path(@conn, :about) )%></li>
+    <li><%= link("Resume", to: Routes.page_path(@conn, :resume) )%></li>
+    <li><a href="https://github.com/hsavit1" target="_blank">Github</a></li>
+    <li><a href="https://twitter.com/CantBeMoreWrong" target="_blank">Twitter</a></li>
+    <li><a href="linkedin.com/in/henry-savit-45027069 " target="_blank">Linkedin</a></li>
   </ul>
-</section>
+</footer>
