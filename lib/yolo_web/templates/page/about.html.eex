@@ -9,6 +9,12 @@
         Since then I've jumped around a few software startups. My goal is to use what I've learned to help make all life on this planet more sustainable.
     </p>
 
+    <h4>Nobody Cares?</h4>
+
+    <p>
+        you can skip straight to my <%= link("resume", to: Routes.page_path(@conn, :resume) )%>  
+    </p>
+
     
     <h4>How I've built this</h4>
 
