@@ -1,111 +1,97 @@
 <div class="container">
     <div class="resume">
-    <blockquote>
-        <p>
-        <a href="mailto:">henry dot savit AT gmail dot com</a>
-        |<br /><a href="tel:6312520490">631.252.0490</a>
-        </p>
-    </blockquote>
-    <h1 id="henry-savit-senior-engineer">
-        Henry Savit &ndash; Senior Engineer
-    </h1>
-    <ul>
-        <li>
-        3+ years of experience as a software engineer in professional industry
-        </li>
-        <li>
-        Full stack engineer with a concentration on front-end technologies
-        </li>
-    </ul>
-    <h2 id="education">Education</h2>
-    <p>
-        <strong>Binghamton University, Binghamton, NY</strong><br />B.S. in
-        Mathematical Physics <em>May 2014</em><br />B.A. in Mathematics
-        <em>May 2014</em><br />Minor in Computer Science <em>May 2014</em>
-    </p>
-    <h2 id="skills">Skills</h2>
-    <ul>
-        <li>Architectural Patterns &ndash; MVC, MVU, MVVM, SSR, State Machines,
-        CQRS, Event Sourcing, Actor Model, Distributed Systems, Immutable data
-        </li>
-        <li>Methodologies &ndash; Remote Teams, Agile, Scrum, Cross-platform
-        Development, Functional + OO Programming, Rapid Application
-        Development
-        </li>
-        <li>Programming Languages &ndash; Elixir, Erlang, JavaScript, TypeScript,
-        Swift, SQL, Objective-C, CSS, SASS, HTML
-        </li>
-        <li>UI &ndash; Mobile-first Design, Xcode, Android Studio, Responsive Web Design, Sketch</li>
-    </ul>
-    <h2 id="tools">Tools</h2>
-    <ul>
-        <li>Frameworks &ndash; React, Redux, Node.js, Phoenix, Ecto, PostgreSQL,
-        iOS, React Native, Amazon Web Services, Docker, Styled Components,
-        Storybook
-        </li>
-        <li>Automation Software &ndash; Webpack, Ansible, CircleCI</li>
-        <li>Prototyping &ndash; Balsamiq, Sketch</li>
-        <li>Email Distribution &ndash; HubSpot</li>
-    </ul>
-    <h2 id="experience">Experience</h2>
-    <p>
-        <strong>BlockFi Inc, NYC, NY</strong><br />Senior Full Stack Software Engineer<br /><em
-        >September 2018 &ndash; Present</em
-        >
-    </p>
-    <ul>
-        <li>Fullstack engineer operating with 20 remote Elixir engineers for a
-        Blockchain financial services company
-        </li>
-        <li>Built and scaled out the frontend React SPA codebase with modern
-        React (hooks)
-        </li>
-        <li>Maintained backoffice Phoenix application and Elixir financial
-        service applications</li>
-        <li>Company had 10 people at start, now has nearly 100</li>
-        <li>Led startup from seed round to series A ($19 million from Valar ventures)</li>
-        <li>Maintained legacy Vue.js frontend application</li>
-        <li>Managed deployments with AWS and Cloudfront</li>
-        <li>Wrote AWS lambdas using Golang</li>
-    </ul>
-    <p>
-        <strong>Delivery.com, NYC, NY</strong><br />Mid Level Software Engineer<br /><em>Jan 2017 &ndash; Jan 2018</em>
-    </p>
-    <ul>
-        <li>Maintainer of 2 Enterprise Apps (iOS and Android) that serve hundreds
-        of thousands of customers
-        </li>
-        <li>Built features that significantly increased sales on mobile reorders
-        </li>
-        <li>Worked in a startup environment with a small team (~12 total
-        engineers and only 2 other native engineers)
-        </li>
-        <li>Projects used innovative tech (Android app is ~85% React Native, iOS
-        app ~20% React Native, 50% Swift)
-        </li>
-        <li>First major company to adopt React Native at scale outside of Facebook</li>
-    </ul>
-    <p>
-        <strong>Ambulnz, NYC, NY</strong><br />Senior Mobile Engineer
-        <br /><em>Jan 2016 &ndash; June 2016</em>
-    </p>
-    <ul>
-        <li>Built and Launched 2 Enterprise iOS Apps (Client and Administration)
-        in pure Swift - First startup engineering hire
+        <blockquote>
+            <p>
+            <a href="mailto:">henry dot savit AT gmail dot com</a>
+            |<br /><a href="tel:6312520490">631.252.0490</a>
+            </p>
+        </blockquote>
+        <h1 id="henry-savit-senior-engineer">
+            Henry Savit &ndash; Senior Engineer
+        </h1>
         <ul>
-            <li>Apps function similarly to Uber, but for ambulances and the
-            medical industry
-            </li>
+            <li>3+ years of experience as a software engineer in professional industry</li>
+            <li>Full stack engineer with a concentration on front-end technologies</li>
         </ul>
-        </li>
-        <li>First engineer hire for a startup with a small team. Company now
-        operates on a national level
-        </li>
-        <li>Key player in a Node.js backend (used a Loopback stack), worked with
-        MySQL and AWS
-        </li>
-        <li>Startup now has major traction and hundreds of employees, with services in 5 major metro cities
-        </li>
-    </ul>
+        <h2 id="education">Education</h2>
+        <p>
+            <strong>Binghamton University, Binghamton, NY</strong>
+            <br />
+            B.S. in Mathematical Physics <em>May 2014</em>
+            <br />
+            B.A. in Mathematics <em>May 2014</em>
+            <br />
+            Minor in Computer Science <em>May 2014</em>
+        </p>
+        <h2 id="skills">Skills</h2>
+        <ul>
+            <li>Architectural Patterns &ndash; MVC, MVU, MVVM, SSR, State Machines,
+            CQRS, Event Sourcing, Actor Model, Distributed Systems, Immutable data</li>
+            <li>Methodologies &ndash; Remote Teams, Agile, Scrum, Cross-platform
+            Development, Functional + OO Programming, Rapid Application
+            Development</li>
+            <li>Programming Languages &ndash; Elixir, Erlang, JavaScript, TypeScript,
+            Swift, SQL, Objective-C, CSS, SASS, HTML</li>
+            <li>UI &ndash; Mobile-first Design, Xcode, Android Studio, Responsive Web Design, Sketch</li>
+        </ul>
+        <h2 id="tools">Tools</h2>
+        <ul>
+            <li>Frameworks &ndash; React, Redux, Node.js, Phoenix, Ecto, PostgreSQL,
+            iOS, React Native, Amazon Web Services, Docker, Styled Components,
+            Storybook</li>
+            <li>Automation Software &ndash; Webpack, Ansible, CircleCI</li>
+            <li>Prototyping &ndash; Balsamiq, Sketch</li>
+            <li>Email Distribution &ndash; HubSpot</li>
+        </ul>
+        <h2 id="experience">Experience</h2>
+        <p>
+            <strong>BlockFi Inc, NYC, NY</strong>
+            <br />
+            Senior Full Stack Software Engineer
+            <br />
+            <em>September 2018 &ndash; Present</em>
+        </p>
+        <ul>
+            <li>Fullstack engineer operating with 20 remote Elixir engineers for a
+            Blockchain financial services company</li>
+            <li>Built and scaled out the frontend React SPA codebase with modern
+            React (hooks)</li>
+            <li>Maintained backoffice Phoenix application and Elixir financial
+            service applications</li>
+            <li>Company had 10 people at start, now has nearly 100</li>
+            <li>Led startup from seed round to series A ($19 million from Valar ventures)</li>
+            <li>Maintained legacy Vue.js frontend application</li>
+            <li>Managed deployments with AWS and Cloudfront</li>
+            <li>Wrote AWS lambdas using Golang</li>
+        </ul>
+        <p>
+            <strong>Delivery.com, NYC, NY</strong><br />Mid Level Software Engineer<br /><em>Jan 2017 &ndash; Jan 2018</em>
+        </p>
+        <ul>
+            <li>Maintainer of 2 Enterprise Apps (iOS and Android) that serve hundreds
+            of thousands of customers</li>
+            <li>Built features that significantly increased sales on mobile reorders</li>
+            <li>Worked in a startup environment with a small team (~12 total
+            engineers and only 2 other native engineers)</li>
+            <li>Projects used innovative tech (Android app is ~85% React Native, iOS
+            app ~20% React Native, 50% Swift)</li>
+            <li>First major company to adopt React Native at scale outside of Facebook</li>
+        </ul>
+        <p>
+            <strong>Ambulnz, NYC, NY</strong><br />Senior Mobile Engineer
+            <br />
+            <em>Jan 2016 &ndash; June 2016</em>
+        </p>
+        <ul>
+            <li>Built and Launched 2 Enterprise iOS Apps (Client and Administration)
+            in pure Swift - First startup engineering hire
+            <li>Apps functioned quite similarly to Uber, but for ambulances and the
+                medical industry. ETA and arrival time accuracy for ambulances far outpreformed a manual ambulnace dispatching service.</li>
+            <li>First engineer hire for a startup with a small team. Company now
+            operates on a national level</li>
+            <li>Key player in a Node.js backend (used a Loopback stack), worked with
+            MySQL and AWS</li>
+            <li>Startup now has major traction and hundreds of employees, with services in 5 major metro cities</li>
+        </ul>
     </div>
 </div>

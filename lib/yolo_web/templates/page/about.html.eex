@@ -12,7 +12,7 @@
     <h4>Nobody Cares?</h4>
 
     <p>
-        you can skip straight to my <%= link("resume", to: Routes.page_path(@conn, :resume) )%>  
+        If you're like most people visiting this site, you probably just want to see my resume, which you can find <%= link("here", to: Routes.page_path(@conn, :resume) )%>  
     </p>
 
     
