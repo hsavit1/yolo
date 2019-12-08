@@ -2,26 +2,26 @@
     <div class="resume">
         <blockquote>
             <p>
-            <a href="mailto:">henry dot savit AT gmail dot com</a>
+            <a href="mailto:">henry dot savit at gmail dot com</a>
             |<br /><a href="tel:6312520490">631.252.0490</a>
             </p>
         </blockquote>
         <h1 id="henry-savit-senior-engineer">
-            Henry Savit &ndash; Senior Engineer
+            Henry Savit &ndash; Senior Software Engineer
         </h1>
         <ul>
-            <li>3+ years of experience as a software engineer in professional industry</li>
-            <li>Full stack engineer with a concentration on front-end technologies</li>
+            <li>Full stack software engineer with 3+ years of experience as a software engineer in professional industry</li>
+            <li>Professional interests include finding sustainable solutions to human caused problems</li>
         </ul>
         <h2 id="education">Education</h2>
         <p>
-            <strong>Binghamton University, Binghamton, NY</strong>
+            <strong>Binghamton University, Binghamton, NY</strong>, <em>Sept 2010 - May 2014</em>
             <br />
-            B.S. in Mathematical Physics <em>May 2014</em>
+            B.S. in Mathematical Physics, <em>May 2014</em>
             <br />
-            B.A. in Mathematics <em>May 2014</em>
+            B.A. in Mathematics, <em>May 2014</em>
             <br />
-            Minor in Computer Science <em>May 2014</em>
+            Minor in Computer Science, <em>May 2014</em>
         </p>
         <h2 id="skills">Skills</h2>
         <ul>
@@ -33,6 +33,7 @@
             <li>Programming Languages &ndash; Elixir, Erlang, JavaScript, TypeScript,
             Swift, SQL, Objective-C, CSS, SASS, HTML</li>
             <li>UI &ndash; Mobile-first Design, Xcode, Android Studio, Responsive Web Design, Sketch</li>
+            <li>Operating Systems &ndash; Linux, MacOS</li>
         </ul>
         <h2 id="tools">Tools</h2>
         <ul>
