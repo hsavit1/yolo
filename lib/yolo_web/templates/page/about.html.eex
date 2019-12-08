@@ -21,7 +21,7 @@
     <p>
         I've built this site using Phoneix, an Elixir web framework. 
         In the past, I had a fancy personal site that used React / Redux / React Router / Styled Components / Zeit Now / and next.js, 
-        but ran into difficulties with hosting fees, so I've retreated to this stylistically bland MVC framework site.
+        but ran into difficulties with hosting fees, so I've retreated to this stylistically bland MVC framework site. For the purpose that this site serves, React seems overboard right now.
     </p>
 
 </article>
