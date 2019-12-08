@@ -17,6 +17,8 @@ defmodule YoloWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/about", PageController, :about
+    get "/resume", PageController, :resume
   end
 
   # Other scopes may use custom stacks.
