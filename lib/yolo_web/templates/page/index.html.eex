@@ -4,7 +4,7 @@
 </section>
 
 <footer>
-  <h3>Places where you can find out more about me:</h3> 
+  <h3>Find out more about me:</h3> 
   <ul>
     <li><%= link("About", to: Routes.page_path(@conn, :about) )%></li>
     <li><%= link("Resume", to: Routes.page_path(@conn, :resume) )%></li>
