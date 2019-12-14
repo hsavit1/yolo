@@ -12,7 +12,7 @@
     <h4>Nobody Cares?</h4>
 
     <p>
-        If you're like most people visiting this site, you probably just want to see my resume, which you can find <%= link("here", to: Routes.page_path(@conn, :resume) )%>  
+        It's more of my intention to build <i>helpful</i> products over pretty-looking vaccuous projects. You came to my site to find a bit more about me - here is my <%= link("resumé", to: Routes.page_path(@conn, :resume) )%>  
     </p>
 
     
