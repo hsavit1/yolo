@@ -12,7 +12,17 @@
     <h4>Nobody Cares?</h4>
 
     <p>
-        Future generations will not care about this personal site. It's more of my intention to build <i>helpful</i> products over pretty-looking vaccuous projects. You came to my site to find a bit more about me - here is my <%= link("resumé", to: Routes.page_path(@conn, :resume) )%>  
+        <ul>
+            <li>
+                Future generations will not care about this hideous personal site
+            </li>
+            <li>
+                It's more of my intention to build <i>helpful</i> products over pretty-looking vaccuous projects
+            </li>
+            <li>
+                You came to my site to find a bit more about me - here is my <%= link("resumé", to: Routes.page_path(@conn, :resume) )%>
+            </li>
+        </ul>   
     </p>
 
     
