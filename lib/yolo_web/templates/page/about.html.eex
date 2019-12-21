@@ -17,7 +17,7 @@
                 If there are future generations, they will certainly not care about this hideous personal site
             </li>
             <li>
-                It's more of my intention to build <i>helpful</i> products over pretty-looking vaccuous projects
+                It's more of my intention to build <i>helpful</i> products than to spend time working on pretty-looking vaccuous projects
             </li>
             <li>
                 You came to my site to find a bit more about me - here is my <%= link("resumé", to: Routes.page_path(@conn, :resume) )%>
